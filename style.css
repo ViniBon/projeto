@@ -164,6 +164,17 @@ header{
     font-weight: lighter;
 }
 
+#destaques{
+    margin-top: 230px;
+    margin-left: 20px;
+    cursor: pointer;
+    max-width: 110px;
+    color: white;
+    font-family: 'Anton', sans-serif, arial;
+    letter-spacing: 2px;
+    font-weight: lighter;
+}
+
 
 /* Posters em Geral*/
 .posters{
@@ -281,6 +292,18 @@ header{
     font-weight: lighter;
 }
 
+#ultimas{
+    margin-left: 20px;
+    margin-top: 70px;
+    white-space: nowrap;
+    max-width: 60px;
+    cursor: pointer;
+    color: white    ;
+    font-family: 'Anton', sans-serif, arial;
+    letter-spacing: 2px;
+    font-weight: lighter;
+}
+
 .item3:hover .conteudo-hover{
     transition: all 0.86s;
     opacity: 100%;   
@@ -301,7 +324,7 @@ header{
 
 footer{
     width: 100%;
-    border-top: 3px solid solid rgb(101, 228, 245);
+    border-top: 3px solid rgb(101, 228, 245);
     background-color: rgb(236, 235, 235);
     border-top: 3px solid rgb(101, 228, 245);
 }
